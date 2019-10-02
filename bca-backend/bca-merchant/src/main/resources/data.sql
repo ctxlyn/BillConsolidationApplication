@@ -1,0 +1,1 @@
+insert into merchant_domain values (1, 'firstMerchant');
